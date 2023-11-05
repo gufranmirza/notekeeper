@@ -12,13 +12,13 @@
 - Clone the repository
 
 ```bash
-git clone https://github.com/OmkarPathak/django-notekeeper.git
+git clone https://github.com/gufranmirza/notekeeper
 ```
 
 - Install Dependencies
 
 ```bash
-cd django-notekeeper
+cd notekeeper
 pip install -r requirements.txt
 ```
 
